@@ -1,4 +1,4 @@
-### Hi there, I'm Mariana Bleicken. 👋
+### Hi there, I'm Mariana Bleicken! 👋
 
 <div align="center">
   <a href="https://github.com/MariBleicken">
