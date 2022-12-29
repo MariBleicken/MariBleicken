@@ -8,7 +8,7 @@ Highly analytical and process-oriented with 10 years of experience in the energy
 
 *   🌍  I'm based in Massachusetts
 *   🧠  I'm learning Python & R for Data Analysis
-*   🤝  I'm open to collaborating on Interesting Projects### Skills 
+*   🤝  I'm open to collaborating on Interesting Projects
 
                     
 
