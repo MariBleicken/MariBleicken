@@ -4,7 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analyst . Data Steward . Business Analyst
 ----------------------------------------------
 
-Highly analytical and process-oriented with 10 years of experience in the energy industry, more recently working as Inventory Data steward/ Data analyst / MDM in a data migration project for one of the largest port operating companies. Proven ability to analyze, design and optimize business processes with hands-on experience implementing change, increasing user adoption, and driving best practice. An individual motivated to understand complex problems ranging over multiple teams, bringing forward solutions, and accomplishing those projects.
 
 *   🌍  I'm based in Massachusetts
 *   🧠  I'm learning Python & R for Data Analysis
