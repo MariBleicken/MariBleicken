@@ -6,7 +6,7 @@ Data Analyst . Data Steward . Business Analyst
 
 
 *   🌍  I'm based in Massachusetts
-*   🧠  I'm learning Python & R for Data Analysis
+*   🧠  I'm learning SQL, Python & R for Data Analysis
 *   🤝  I'm open to collaborating on Interesting Projects
 
                     
