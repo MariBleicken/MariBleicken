@@ -10,7 +10,7 @@ Data Analyst . Data Steward . Business Analyst
 *   🤝  I'm open to collaborating on Interesting Projects
 
                     
-https://github-readme-stats.vercel.app/api?username=MariBleicken_icon=true&theme=radical
+
 
   ##
     
