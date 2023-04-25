@@ -10,8 +10,7 @@ Data Analyst . Data Steward . Business Analyst
 *   🤝  I'm open to collaborating on Interesting Projects
 
                     
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariBleicken_icon=true&theme=radical)
+https://github-readme-stats.vercel.app/api?username=MariBleicken_icon=true&theme=radical
 
   ##
     
