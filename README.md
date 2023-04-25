@@ -11,7 +11,7 @@ Data Analyst . Data Steward . Business Analyst
 
                     
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariBleicken_icons=true&theme=radical)
 
   ##
     
