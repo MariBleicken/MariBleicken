@@ -11,11 +11,8 @@ Data Analyst . Data Steward . Business Analyst
 
                     
 
-<div align="center">
-  <a href="https://github.com/MariBleicken">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MariBleicken&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariBleicken&layout=compact&langs_count=7&theme=tokyonight"/>
-  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
   ##
     
    
